@@ -9,7 +9,7 @@
 ## 💻MY-Skils
 + HTML
 + CSS
-+ Java　script
++ JavaScript
 + PHP
 + SQL
 + Laravel
