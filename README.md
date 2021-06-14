@@ -11,7 +11,7 @@
 + CSS
 + JavaScript
 + PHP
-+ SQL
++ MySQL
 + Laravel
 + React
 
